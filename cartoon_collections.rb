@@ -24,5 +24,5 @@ def list_dwarves(array)
   }
   end
   
-filter_parameter_logging
+
 
